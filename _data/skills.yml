@@ -1,12 +1,19 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Quality Assurance
+- skill: Quality Assurance
+  description: Testing theory, Test-cases, Checklists, Test-plans, Bug-reports, Test-Strategy.
+# Database testing
+- skill: Database testing
+  description: SQL requsts, PostgreSQL.
+# API testing
+- skill: API testing
+  description: REST, test GET, POST, PUT, DELETE requsts, work with POSTMAN. GraphQL queries and mutations, apollo GraphQL.
+# Browser Testing
+- skill: Browser Testing
+  description: Worked with devtools, cross-browser testing.
+# Mobile Testing
+- skill: Mobile Testing
+  description: Testing Android/IOS applications, worked with traffic sniffers (mitmproxy).
+# Development
+- skill: Development
+  description: Learning JS, RUBY(RoR), HTML, CSS. I like backend development.
